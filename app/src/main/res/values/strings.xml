@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="name">Aditya Ananda Ramadhani</string>
+    <string name="nim">193030503072</string>
+    <string name="about_me">About Me</string>
+    <string name="deskripsi">Doing at the sweet spot between aesthetics and elegance to give life to your brand.My opinion belong to nobody but myself.</string>
+    <string name="contact">Contact</string>
+    <string name="nomor">+62 82256345478</string>
+    <string name="email">adityaanandar15@gmail.com</string>
+    <string name="lokasi">Palangka Raya, Central Kalimantan, Indonesia</string>
+    <string name="skills">Skills</string>
+    <string name="samplereview1">Aplikasi sangat mudah digunakan dan sangat membantu. Terima Kasih!</string>
+    <string name="samplereview2">Aplikasi ini sangat direkomendasikan bagi yang membutuhkan aplikasi catatan yang baik</string>
+    <string name="samplereview3">I love with this application. Thank You!!!</string>
+    <string name="ketik">Word, Excel, Power Point</string>
+    <string name="code">Pascal, C++, HTML, PHP, Java</string>
+    <string name="bahasa">Bahasa Indonesia, English</string>
+    <string name="Developer">Android Developer</string>
+    <string name="dateDeveloper">01 June 2021 - 08 July 2021</string>
+    <string name="github">github.com/adityaar18</string>
+    <string name="client1">Andi Hardi</string>
+    <string name="client2">Surya Nata</string>
+    <string name="client3">Mary Jane</string>
+</resources>
